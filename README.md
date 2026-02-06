@@ -23,8 +23,11 @@ Construir uma base sólida em HTML, começando do zero e avançando de forma org
 - Head e Body 
 - Tags de texto 
 - Organização semântica (em andamento)
+- Links e Imgs
 
 ## 🛠️ Observações
 
 Este repositório é exclusivamente para fins de estudo e será atualizado conforme o avanço no aprendizado.
+ 
+agradecimento ao projeto The Project Odin (TOP)
 
