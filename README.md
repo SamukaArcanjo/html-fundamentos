@@ -12,7 +12,11 @@ Construir uma base sólida em HTML, começando do zero e avançando de forma org
   Estudos sobre a estrutura inicial de um documento HTML, como `<!DOCTYPE>`, `<html>`, `<head>` e `<body>`.
 
 - `tags-iniciais/` 
-  Prática com tags básicas de texto, como títulos, parágrafos e listas.
+  Prática com tags básicas de texto, como títulos, parágrafos e 
+  listas.
+
+- `links-imagens` 
+  Prática com tags de links e imagens. .
 
 - `README.md` 
   Documento de organização e explicação do repositório.
